@@ -1,4 +1,13 @@
 ```c
+/*
+	Name: Fibonacci sequence 
+	Copyright: courri@github 
+	Author: renkai wang 
+	Date: 08/04/15 16:06
+	Description: C code to calculate Fibonacci sequence 
+	Compiler：TDM-GCC 4.8.1 64-bit Release 
+*/
+
 #include "stdio.h"//请给每一行添加注释，随意添加 
 long long int fibb(int n);
 int main()
@@ -20,4 +29,5 @@ long long int fibb(int n)
 	}
 	return fnext;
 }
+
 ```
