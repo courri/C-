@@ -46,7 +46,7 @@
 
 #代码在旁边，，注释自己fork之后，再写吧
 
-windows下推荐使用dev-c++开发
+windows下推荐使用dev-c++开发,[下载地址](http://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/)
 
 
 linux下，请参考[在Linux下运行C语言程序_C语言中文网](http://c.biancheng.net/cpp/html/2759.html) 
