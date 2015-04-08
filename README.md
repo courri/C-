@@ -54,4 +54,8 @@ linux下，请参考[在Linux下运行C语言程序_C语言中文网](http://c.b
 
 MacOS下，你可以参考[Mac 下顺手的 C/C++ 开发 IDE 是哪个？](http://www.zhihu.com/question/19615915)
 
+#by wang rk
+
+
+2015年4月8日15:59:29
 
